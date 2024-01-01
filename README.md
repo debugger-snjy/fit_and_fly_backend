@@ -56,4 +56,5 @@ This is a Management System where we have three different user roles :
 ### Items Page
 ![image](https://github.com/debugger-snjy/fit_and_fly/assets/73947620/a3c24f04-d65f-4606-94e3-a89b4afaa34e)
 
-
+### Email Screenshots of Order Placed !
+![image](https://github.com/debugger-snjy/fit_and_fly/assets/73947620/08c02e88-cc74-40e8-92bf-46af18a01e17)
