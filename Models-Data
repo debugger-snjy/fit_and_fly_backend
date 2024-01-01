@@ -1,0 +1,67 @@
+Admin
+- role
+- gender
+- phone
+- name
+- password
+- email
+- date
+- address
+- account_balance
+- adminId
+
+Cart
+- item : []
+
+Customer
+- name
+- email
+- password
+- gender
+- phone
+- date
+- address
+- role
+- account_balance
+
+Employee
+- name
+- email
+- password
+- gender
+- phone
+- date
+- address
+- role
+- account_balance
+- employeeId
+
+Items
+- itemName
+- itemDate
+- itemPrice
+- itemType
+- itemCategory
+- itemPhotos
+- itemCode
+
+Orders
+- orderID
+- orderFrom
+- orderDate
+- orderStatus
+- orderAddress
+- orderPrice
+- orderApprovedBy
+- orderApproveDate
+
+RecentActivity
+
+Transactions
+- transactionFrom
+- transactionPrice
+- transactionorderID
+- transactionMode
+
+Wishlist
+- item : []

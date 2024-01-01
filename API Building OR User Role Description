@@ -1,0 +1,32 @@
+API Building : 
+
+Customer : 
+- Add or Remove item in the Cart -----------------------------------> Done
+- Add or Remove item in the Wishlist -------------------------------> Done
+- Order an Item ----------------------------------------------------> Done
+- Cancel Ordered Item ----------------------------------------------> Done
+- Cancel Transaction Done ------------------------------------------> Done
+- Revert the Money Back for Cancelling Item ------------------------> Done
+- Transaction for an order -----------------------------------------> Done
+- Mark Transactionas Cancelled with Msg for an order ---------------> Done
+- View all the items -----------------------------------------------> Done
+- View Profile -----------------------------------------------------> Done {Done from auth.js}
+- Update Account Balance on Ordering -------------------------------> Done
+- Update Account Balance on adding or removing more money ----------> Done
+
+Employee : 
+- Approve or Disapprove the Orders ---------------------------------> Done
+- Get all the Items, Carts, Wishlist Data Report -------------------> Done
+- Add/Delete/Update an Item ----------------------------------------> Done
+- View Profile -----------------------------------------------------> Done {Done from auth.js}
+- Add/Delete/Update an Category ------------------------------------> Done
+
+Admin : 
+- Have all the Data of the Customer --------------------------------> Done
+- Have all the Data of the Admin -----------------------------------> Done
+- CRUD => Customer and Employee ------------------------------------> Done
+- Approve or Disapprove the Orders ---------------------------------> Done
+- Get all the Items, Carts, Orders & Wishlist Data Report ----------> Done
+- Add/Delete/Update an Item ----------------------------------------> Done
+- View Profile -----------------------------------------------------> Done {Done from auth.js}
+- Add/Delete/Update an Category ------------------------------------> Done
